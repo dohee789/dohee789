@@ -26,5 +26,5 @@
 
 ### Connect with me
 <p>
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/(mailto:dojin3773@gmail.com)></a>
+<a href="mailto:dojin3773@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>

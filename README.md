@@ -2,6 +2,8 @@
 
 <h3 align="center"> Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h3>
 
+<h3 align="center"> 💻Latest Project💻</h>
+<a href="https://github.com/dohee789/stock-simulator">
 <h3 align="center"> 🛠 Tech Stack🛠</h>
 <p align="center"> Techs that I've used at least once </p>
 
@@ -27,7 +29,7 @@
   <br></a>
 </p>
 
-### Connect with me
+<h3 align="center" Connect with me</h3>
 <p>
 <a href="mailto:dojin3773@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>

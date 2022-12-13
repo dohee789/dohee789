@@ -1,9 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=random)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Dohee%20Github!&fontSize=40)<br>
+<h4 align="center">Hi guys, I'm dohee ─ Back-end Developer<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="48"></h4><br>
 
-<h3 align="center"> Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h3>
 
-<h3 align="center"> 💻Latest Project💻</h>
-<a href="https://github.com/dohee789/stock-simulator">
+<br>
 <h3 align="center"> 🛠 Tech Stack🛠</h>
 <p align="center"> Techs that I've used at least once </p>
 
@@ -28,8 +27,11 @@
 <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=Amazon%20AWS&logoColor=white"/> 
   <br></a>
 </p>
-
-<h3 align="center" Connect with me</h3>
+<br><br><br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dohee789&hide=jupyter%20notebook&langs_count=6&layout=compact"><br><br>
+<br><br>
+<h3 align="center">Connect with me</h><br><br>
 <p>
 <a href="mailto:dojin3773@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.notion.so/doduck/Do-Duck-f13ed0c5a63b42cd8047f30a873160f6"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/></a>
 </p>

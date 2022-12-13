@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Dohee%20Github!&fontSize=30)
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=💻Dohee%20Github💻&fontSize=30"></p>
 <h4 align="center">Hi guys, I'm dohee ─ Back-end Developer<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="48"></h4><br>
 
 

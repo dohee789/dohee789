@@ -28,7 +28,7 @@
 </p>
 <br><br><br>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dohee789&hide=jupyter%20notebook&langs_count=6&layout=compact"><br><br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dohee789&hide=jupyter%20notebook&langs_count=6&layout=compact&theme=dracula"><br><br>
 <br><br></p>
 <h2 align="center">⋆｡ﾟ✶°💜 contact me 💜⋆｡ﾟ✶°</h2>
 <p align="center">

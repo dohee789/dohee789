@@ -1,16 +1,15 @@
-
 <p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=💻Dohee%20Github💻&fontSize=30"></p>
 <h4 align="center">Hi guys, I'm dohee ─ Back-end Developer<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="48"></h4><br>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/50413112/105368338-c5250000-5c44-11eb-9a01-5a8c95186bba.jpg">
+</p>
+<h2 align="center">☾⋆⁺₊⋆💙 all i can do 💙⋆⁺₊⋆☾</h2>
 
-
-<br>
-<h3 align="center"> 🛠 Tech Stack🛠</h>
-<p align="center"> Techs that I've used at least once </p>
-
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
   <img src="https://img.shields.io/badge/-C%23-0769AD?style=for-the-badge&logo=Csharp&logoColor=white">
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=PHP&logoColor=white"/>
   <br>
   
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
@@ -29,10 +28,11 @@
   <br></a>
 </p>
 <br><br><br>
+<p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dohee789&hide=jupyter%20notebook&langs_count=6&layout=compact"><br><br>
-<br><br>
-<h3 align="center">Connect with me</h><br><br>
-<p>
+<br><br></p>
+<h2 align="center">⋆｡ﾟ✶°💜 contact me 💜⋆｡ﾟ✶°</h2>
+<p align="center">
 <a href="mailto:dojin3773@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://www.notion.so/doduck/Do-Duck-f13ed0c5a63b42cd8047f30a873160f6"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/></a>
 </p>

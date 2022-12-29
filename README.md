@@ -1,4 +1,3 @@
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=💻Dohee%20Github💻&fontSize=30"></p>
 <h4 align="center">Hi guys, I'm dohee ─ Back-end Developer<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="48"></h4><br>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/50413112/105368338-c5250000-5c44-11eb-9a01-5a8c95186bba.jpg">

@@ -29,5 +29,5 @@
 <h2 align="center">⋆｡ﾟ✶°💜 contact me 💜⋆｡ﾟ✶°</h2>
 <p align="center">
 <a href="mailto:dojin3773@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://www.notion.so/doduck/Do-Duck-f13ed0c5a63b42cd8047f30a873160f6"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/></a>
+<a href="https://www.notion.so/doduck/Do-Duck-f13ed0c5a63b42cd8047f30a873160f6](https://dev-do-duck-unu0c349h-dohee789s-projects.vercel.app"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/></a>
 </p>
